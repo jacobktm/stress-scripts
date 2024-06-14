@@ -1,0 +1,2 @@
+# This commit causes segfaults
+https://github.com/ColinIanKing/stress-ng/commit/9aef6df3ac0fb9b6f9bafc2e2f410849730627e7

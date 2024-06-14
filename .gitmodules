@@ -1,0 +1,3 @@
+[submodule "stressmon"]
+	path = stressmon
+	url = https://github.com/jacobktm/stressmon.git

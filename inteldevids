@@ -1,0 +1,1025 @@
+F1A7,SSD 700p Series
+F1AA,SSD 670p Series [Keystone Harbor]
+FAF0,SSD 665p Series [Neptune Harbor Refresh]
+F1A8,SSD 660P Series
+D158,Core Processor Miscellaneous Registers
+F1A5,SSD 600P Series
+F1A6,SSD DC P4101/Pro 7600p/760p/E 6100p Series
+D150,Core Processor QPI Link
+D151,Core Processor QPI Routing and Protocol Registers
+D155,Core Processor System Management Registers
+D156,Core Processor Semaphore and Scratchpad Registers
+D157,Core Processor System Control and Status Registers
+D138,Core Processor PCI Express Root Port 1
+D139,Core Processor PCI Express Root Port 2
+D13A,Core Processor PCI Express Root Port 3
+D13B,Core Processor PCI Express Root Port 4
+D134,Core Processor DMI
+D135,Core Processor DMI
+D136,Core Processor DMI
+D137,Core Processor DMI
+D130,Core Processor DMI
+D131,Core Processor DMI
+D132,Core Processor DMI
+D133,Core Processor DMI
+AD0B,Volume Management Device NVMe RAID Controller Intel
+ABC0,Omni-Path Fabric Switch Silicon 100 Series
+B152,21152 PCI-to-PCI Bridge
+B154,21154 PCI-to-PCI Bridge
+B555,21555 Non transparent PCI-to-PCI Bridge
+A78B,Raptor Lake-S UHD Graphics
+A7A0,Raptor Lake-P [Iris Xe Graphics]
+A7A1,Raptor Lake-P [Iris Xe Graphics]
+A7A8,Raptor Lake-P [UHD Graphics]
+A7A9,Raptor Lake-P [UHD Graphics]
+A788,Raptor Lake-S UHD Graphics
+A789,Raptor Lake-S UHD Graphics
+A78A,Raptor Lake-S UHD Graphics
+A77F,Volume Management Device NVMe RAID Controller Intel
+A780,Raptor Lake-S GT1 [UHD Graphics 770]
+A781,Raptor Lake-S UHD Graphics
+A782,Raptor Lake-S UHD Graphics
+A783,Raptor Lake-S UHD Graphics
+A720,Raptor Lake-P [UHD Graphics]
+A721,Raptor Lake-P [UHD Graphics]
+A74F,GNA Scoring Accelerator module
+A620,6400/6402 Advanced Memory Buffer (AMB)
+A3DA,H410 Chipset LPC/eSPI Controller
+A3EB,Comet Lake PCI Express Root Port #21
+A3F0,Comet Lake PCH-V cAVS
+A3BA,Comet Lake PCH-V HECI Controller
+A3C8,B460 Chipset LPC/eSPI Controller
+A3AF,Comet Lake PCH-V USB Controller
+A3B1,Comet Lake PCH-V Thermal Subsystem
+A398,Comet Lake PCI Express Root Port 9
+A39A,Comet Lake PCI Express Root Port 11
+A3A1,Cannon Lake PCH Power Management Controller
+A3A3,Comet Lake PCH-V SMBus Host Controller
+A394,Comet Lake PCI Express Root Port #05
+A397,Comet Lake PCI Express Root Port #08
+A379,Cannon Lake PCH Thermal Controller
+A382,400 Series Chipset Family SATA AHCI Controller
+A36A,Cannon Lake PCH Serial IO I2C Controller #2
+A36B,Cannon Lake PCH Serial IO I2C Controller #3
+A36D,Cannon Lake PCH USB 3.1 xHCI Host Controller
+A36F,Cannon Lake PCH Shared SRAM
+A370,Cannon Lake PCH CNVi WiFi
+A360,Cannon Lake PCH HECI Controller
+A363,Cannon Lake PCH Active Management Technology - SOL
+A364,Cannon Lake PCH HECI Controller #2
+A368,Cannon Lake PCH Serial IO I2C Controller #0
+A369,Cannon Lake PCH Serial IO I2C Controller #1
+A342,Cannon Lake PCH PCI Express Root Port #19
+A343,Cannon Lake PCH PCI Express Root Port #20
+A348,Cannon Lake PCH cAVS
+A352,Cannon Lake PCH SATA AHCI Controller
+A353,Cannon Lake Mobile PCH SATA AHCI Controller
+A33D,Cannon Lake PCH PCI Express Root Port #6
+A33E,Cannon Lake PCH PCI Express Root Port #7
+A33F,Cannon Lake PCH PCI Express Root Port #8
+A340,Cannon Lake PCH PCI Express Root Port #17
+A341,Cannon Lake PCH PCI Express Root Port #18
+A338,Cannon Lake PCH PCI Express Root Port #1
+A339,Cannon Lake PCH PCI Express Root Port #2
+A33A,Cannon Lake PCH PCI Express Root Port #3
+A33B,Cannon Lake PCH PCI Express Root Port #4
+A33C,Cannon Lake PCH PCI Express Root Port #5
+A334,Cannon Lake PCH PCI Express Root Port #13
+A335,Cannon Lake PCH PCI Express Root Port #14
+A336,Cannon Lake PCH PCI Express Root Port #15
+A337,Cannon Lake PCH PCI Express Root Port #16
+A32E,Cannon Lake PCH PCI Express Root Port #23
+A32F,Cannon Lake PCH PCI Express Root Port #24
+A330,Cannon Lake PCH PCI Express Root Port #9
+A331,Cannon Lake PCH PCI Express Root Port #10
+A332,Cannon Lake PCH PCI Express Root Port #11
+A333,Cannon Lake PCH PCI Express Root Port #12
+A32B,Cannon Lake PCH SPI Host Controller
+A328,Cannon Lake PCH Serial IO UART Host Controller
+A32C,Cannon Lake PCH PCI Express Root Port #21
+A32D,Cannon Lake PCH PCI Express Root Port #22
+A30D,HM470 Chipset LPC/eSPI Controller
+A30E,Cannon Lake LPC Controller
+A323,Cannon Lake PCH SMBus Controller
+A324,Cannon Lake PCH SPI Controller
+A304,H370 Chipset LPC/eSPI Controller
+A305,Z390 Chipset LPC/eSPI Controller
+A306,Q370 Chipset LPC/eSPI Controller
+A309,Cannon Point-LP LPC Controller
+A30C,QM370 Chipset LPC/eSPI Controller
+A303,H310 Chipset LPC/eSPI Controller
+A2ED,200 Series PCH PCI Express Root Port #23
+A2EE,200 Series PCH PCI Express Root Port #24
+A2F0,200 Series PCH HD Audio
+A2E9,200 Series PCH PCI Express Root Port #19
+A2EA,200 Series PCH PCI Express Root Port #20
+A2EB,200 Series PCH PCI Express Root Port #21
+A2EC,200 Series PCH PCI Express Root Port #22
+A2E2,200 Series PCH Serial IO I2C Controller #2
+A2E3,200 Series PCH Serial IO I2C Controller #3
+A2E6,200 Series PCH Serial IO UART Controller #2
+A2E7,200 Series PCH PCI Express Root Port #17
+A2E8,200 Series PCH PCI Express Root Port #18
+A2D2,X299 Chipset LPC/eSPI Controller
+A2D3,C422 Chipset LPC/eSPI Controller
+A2E0,200 Series PCH Serial IO I2C Controller #0
+A2E1,200 Series PCH Serial IO I2C Controller #1
+A2C5,200 Series PCH LPC Controller (Z270)
+A2C6,200 Series PCH LPC Controller (Q270)
+A2C7,200 Series PCH LPC Controller (Q250)
+A2C8,200 Series PCH LPC Controller (B250)
+A2C9,Z370 Chipset LPC/eSPI Controller
+A2B1,200 Series PCH Thermal Subsystem
+A2BA,200 Series PCH CSME HECI #1
+A2BB,200 Series PCH CSME HECI #2
+A2C4,200 Series PCH LPC Controller (H270)
+A2A8,200 Series/Z370 Chipset Family Serial IO UART Controller #1
+A2A9,200 Series/Z370 Chipset Family Serial IO SPI Controller #0
+A2AA,200 Series/Z370 Chipset Family Serial IO SPI Controller #1
+A2AF,200 Series/Z370 Chipset Family USB 3.0 xHCI Controller
+A2A4,200 Series/Z370 Chipset Family SPI Controller
+A2A5,200 Series/Z370 Chipset Family Gigabit Ethernet Controller
+A2A6,200 Series/Z370 Chipset Family Trace Hub
+A2A7,200 Series/Z370 Chipset Family Serial IO UART Controller #0
+A29F,200 Series PCH PCI Express Root Port #16
+A2A0,200 Series/Z370 Chipset Family P2SB
+A2A1,200 Series/Z370 Chipset Family Power Management Controller
+A2A3,200 Series/Z370 Chipset Family SMBus Controller
+A29B,200 Series PCH PCI Express Root Port #12
+A29C,200 Series PCH PCI Express Root Port #13
+A29D,200 Series PCH PCI Express Root Port #14
+A29E,200 Series PCH PCI Express Root Port #15
+A296,200 Series PCH PCI Express Root Port #7
+A297,200 Series PCH PCI Express Root Port #8
+A298,200 Series PCH PCI Express Root Port #9
+A299,200 Series PCH PCI Express Root Port #10
+A29A,200 Series PCH PCI Express Root Port #11
+A292,200 Series PCH PCI Express Root Port #3
+A293,200 Series PCH PCI Express Root Port #4
+A294,200 Series PCH PCI Express Root Port #5
+A295,200 Series PCH PCI Express Root Port #6
+A256,Lewisburg SSATA Controller [RAID mode]
+A282,200 Series PCH SATA controller [AHCI mode]
+A286,200 Series PCH SATA controller [RAID mode]
+A290,200 Series PCH PCI Express Root Port #1
+A291,200 Series PCH PCI Express Root Port #2
+A224,Lewisburg SPI Controller
+A242,Lewisburg LPC or eSPI Controller
+A243,Lewisburg LPC or eSPI Controller
+A252,Lewisburg SSATA Controller [AHCI mode]
+A1FC,Lewisburg IE: HECI #3
+A202,Lewisburg SATA Controller [AHCI mode]
+A206,Lewisburg SATA Controller [RAID mode]
+A223,Lewisburg SMBus
+A1F8,Lewisburg IE: HECI #1
+A1F9,Lewisburg IE: HECI #2
+A1FA,Lewisburg IE: IDE-r
+A1FB,Lewisburg IE: KT Controller
+A1E9,C620 Series Chipset Family PCI Express Root Port #19
+A1EA,C620 Series Chipset Family PCI Express Root Port #20
+A1EC,C620 Series Chipset Family MROM 0
+A1ED,C620 Series Chipset Family MROM 1
+A1D2,C620 Series Chipset Family SSATA Controller [AHCI mode]
+A1D6,C620 Series Chipset Family SSATA Controller [RAID mode]
+A1E7,C620 Series Chipset Family PCI Express Root Port #17
+A1E8,C620 Series Chipset Family PCI Express Root Port #18
+A1C4,C625 Series Chipset LPC/eSPI Controller
+A1C5,C626 Series Chipset LPC/eSPI Controller
+A1C6,C627 Series Chipset LPC/eSPI Controller
+A1C7,C628 Series Chipset LPC/eSPI Controller
+A1C1,C621 Series Chipset LPC/eSPI Controller
+A1C2,C622 Series Chipset LPC/eSPI Controller
+A1C3,C624 Series Chipset LPC/eSPI Controller
+A1BA,C620 Series Chipset Family MEI Controller #1
+A1BB,C620 Series Chipset Family MEI Controller #2
+A1BC,C620 Series Chipset Family IDE Redirection
+A1BD,C620 Series Chipset Family KT Redirection
+A1BE,C620 Series Chipset Family MEI Controller #3
+A1A6,C620 Series Chipset Family Trace Hub
+A1AF,C620 Series Chipset Family USB 3.0 xHCI Controller
+A1B1,C620 Series Chipset Family Thermal Subsystem
+A1A3,C620 Series Chipset Family SMBus
+A1A4,C620 Series Chipset Family SPI Controller
+A19F,C620 Series Chipset Family PCI Express Root Port #16
+A1A0,C620 Series Chipset Family P2SB
+A1A1,C620 Series Chipset Family Power Management Controller
+A1A2,C620 Series Chipset Family cAVS
+A19C,C620 Series Chipset Family PCI Express Root Port #13
+A19D,C620 Series Chipset Family PCI Express Root Port #14
+A19E,C620 Series Chipset Family PCI Express Root Port #15
+A199,C620 Series Chipset Family PCI Express Root Port #10
+A19A,C620 Series Chipset Family PCI Express Root Port #11
+A19B,C620 Series Chipset Family PCI Express Root Port #12
+A197,C620 Series Chipset Family PCI Express Root Port #8
+A198,C620 Series Chipset Family PCI Express Root Port #9
+A194,C620 Series Chipset Family PCI Express Root Port #5
+A195,C620 Series Chipset Family PCI Express Root Port #6
+A196,C620 Series Chipset Family PCI Express Root Port #7
+A191,C620 Series Chipset Family PCI Express Root Port #2
+A192,C620 Series Chipset Family PCI Express Root Port #3
+A193,C620 Series Chipset Family PCI Express Root Port #4
+A182,C620 Series Chipset Family SATA Controller [AHCI mode]
+A186,C620 Series Chipset Family SATA Controller [RAID mode]
+A190,C620 Series Chipset Family PCI Express Root Port #1
+A169,100 Series/C230 Series Chipset Family PCI Express Root Port #19
+A16A,100 Series/C230 Series Chipset Family PCI Express Root Port #20
+A170,100 Series/C230 Series Chipset Family HD Audio Controller
+A171,CM238 HD Audio Controller
+A166,100 Series/C230 Series Chipset Family Serial IO UART Controller #2
+A167,100 Series/C230 Series Chipset Family PCI Express Root Port #17
+A168,100 Series/C230 Series Chipset Family PCI Express Root Port #18
+A163,100 Series/C230 Series Chipset Family Serial IO I2C Controller #3
+A15F,Sunrise Point-H LPC Controller
+A160,100 Series/C230 Series Chipset Family Serial IO I2C Controller #0
+A161,100 Series/C230 Series Chipset Family Serial IO I2C Controller #1
+A162,100 Series/C230 Series Chipset Family Serial IO I2C Controller #2
+A15B,Sunrise Point-H LPC Controller
+A15C,Sunrise Point-H LPC Controller
+A15D,Sunrise Point-H LPC Controller
+A15E,Sunrise Point-H LPC Controller
+A157,Sunrise Point-H LPC Controller
+A158,Sunrise Point-H LPC Controller
+A159,Sunrise Point-H LPC Controller
+A15A,Sunrise Point-H LPC Controller
+A153,QM175 Chipset LPC/eSPI Controller
+A154,CM238 Chipset LPC/eSPI Controller
+A155,Sunrise Point-H LPC Controller
+A156,Sunrise Point-H LPC Controller
+A14F,Sunrise Point-H LPC Controller
+A150,CM236 Chipset LPC/eSPI Controller
+A151,Sunrise Point-H LPC Controller
+A152,HM175 Chipset LPC/eSPI Controller
+A14B,Sunrise Point-H LPC Controller
+A14C,Sunrise Point-H LPC Controller
+A14D,QM170 Chipset LPC/eSPI Controller
+A14E,HM170 Chipset LPC/eSPI Controller
+A146,Q170 Chipset LPC/eSPI Controller
+A147,Q150 Chipset LPC/eSPI Controller
+A148,B150 Chipset LPC/eSPI Controller
+A149,C236 Chipset LPC/eSPI Controller
+A14A,C232 Chipset LPC/eSPI Controller
+A143,H110 Chipset LPC/eSPI Controller
+A144,H170 Chipset LPC/eSPI Controller
+A145,Z170 Chipset LPC/eSPI Controller
+A13D,100 Series/C230 Series Chipset Family KT Redirection
+A13E,100 Series/C230 Series Chipset Family MEI Controller #3
+A140,Sunrise Point-H LPC Controller
+A141,Sunrise Point-H LPC Controller
+A142,Sunrise Point-H LPC Controller
+A135,100 Series/C230 Series Chipset Family Integrated Sensor Hub
+A13A,100 Series/C230 Series Chipset Family MEI Controller #1
+A13B,100 Series/C230 Series Chipset Family MEI Controller #2
+A13C,100 Series/C230 Series Chipset Family IDE Redirection
+A12A,100 Series/C230 Series Chipset Family Serial IO GSPI #1
+A12F,100 Series/C230 Series Chipset Family USB 3.0 xHCI Controller
+A130,100 Series/C230 Series Chipset Family USB Device Controller (OTG)
+A131,100 Series/C230 Series Chipset Family Thermal Subsystem
+A133,Sunrise Point-H Northpeak ACPI Function
+A126,100 Series/C230 Series Chipset Family Trace Hub
+A127,100 Series/C230 Series Chipset Family Serial IO UART #0
+A128,100 Series/C230 Series Chipset Family Serial IO UART #1
+A129,100 Series/C230 Series Chipset Family Serial IO GSPI #0
+A121,100 Series/C230 Series Chipset Family Power Management Controller
+A122,Sunrise Point-H cAVS
+A123,100 Series/C230 Series Chipset Family SMBus
+A124,100 Series/C230 Series Chipset Family SPI Controller
+A125,100 Series/C230 Series Chipset Family Gigabit Ethernet Controller
+A11E,100 Series/C230 Series Chipset Family PCI Express Root Port #15
+A11F,100 Series/C230 Series Chipset Family PCI Express Root Port #16
+A120,100 Series/C230 Series Chipset Family P2SB
+A119,100 Series/C230 Series Chipset Family PCI Express Root Port #10
+A11A,100 Series/C230 Series Chipset Family PCI Express Root Port #11
+A11B,100 Series/C230 Series Chipset Family PCI Express Root Port #12
+A11C,100 Series/C230 Series Chipset Family PCI Express Root Port #13
+A11D,100 Series/C230 Series Chipset Family PCI Express Root Port #14
+A115,100 Series/C230 Series Chipset Family PCI Express Root Port #6
+A116,100 Series/C230 Series Chipset Family PCI Express Root Port #7
+A117,100 Series/C230 Series Chipset Family PCI Express Root Port #8
+A118,100 Series/C230 Series Chipset Family PCI Express Root Port #9
+A111,100 Series/C230 Series Chipset Family PCI Express Root Port #2
+A112,100 Series/C230 Series Chipset Family PCI Express Root Port #3
+A113,100 Series/C230 Series Chipset Family PCI Express Root Port #4
+A114,100 Series/C230 Series Chipset Family PCI Express Root Port #5
+A106,Q170/H170/Z170/CM236 Chipset SATA Controller [RAID Mode]
+A107,HM170/QM170 Chipset SATA Controller [RAID Mode]
+A10F,Sunrise Point-H SATA Controller [RAID mode]
+A110,100 Series/C230 Series Chipset Family PCI Express Root Port #1
+A0F0,Wi-Fi 6 AX201
+A0FC,Tiger Lake-LP Integrated Sensor Hub
+A102,Q170/Q150/B150/H170/H110/Z170/CM236 Chipset SATA Controller [AHCI Mode]
+A103,HM170/QM170 Chipset SATA Controller [AHCI Mode]
+A105,Sunrise Point-H SATA Controller [RAID mode]
+A0EA,Tiger Lake-LP Serial IO I2C Controller #2
+A0EB,Tiger Lake-LP Serial IO I2C Controller #3
+A0ED,Tiger Lake-LP USB 3.2 Gen 2x1 xHCI Host Controller
+A0EF,Tiger Lake-LP Shared SRAM
+A0E3,Tiger Lake-LP Active Management Technology - SOL
+A0E0,Tiger Lake-LP Management Engine Interface
+A0E8,Tiger Lake-LP Serial IO I2C Controller #0
+A0E9,Tiger Lake-LP Serial IO I2C Controller #1
+A0D3,Tiger Lake-LP SATA Controller
+A0BF,Tiger Lake-LP PCI Express Root Port #8
+A0C5,Tiger Lake-LP Serial IO I2C Controller #4
+A0C6,Tiger Lake-LP Serial IO I2C Controller #5
+A0C8,Tiger Lake-LP Smart Sound Technology Audio Controller
+A0BD,Tigerlake PCH-LP PCI Express Root Port #6
+A0BC,Tiger Lake-LP PCI Express Root Port #5
+A0BE,Tiger Lake-LP PCI Express Root Port #7
+A0B1,Tiger Lake-LP PCI Express Root Port #10
+A0B3,Tiger Lake-LP PCI Express Root Port #12
+A0AB,Tiger Lake-LP Serial IO SPI Controller #1
+A0B0,Tiger Lake-LP PCI Express Root Port #9
+A0A4,Tiger Lake-LP SPI Controller
+A0A6,Tiger Lake-LP Trace Hub
+A0A8,Tiger Lake-LP Serial IO UART Controller #0
+A0A9,Tiger Lake-LP Serial IO UART Controller #1
+A012,Atom Processor D4xx/D5xx/N4xx/N5xx Integrated Graphics Controller
+A013,Atom Processor D4xx/D5xx/N4xx/N5xx CHAPS counter
+A082,Tiger Lake-LP LPC Controller
+A0A3,Tiger Lake-LP SMBus Controller
+A003,Atom Processor D4xx/D5xx/N4xx/N5xx CHAPS counter
+A010,Atom Processor D4xx/D5xx/N4xx/N5xx DMI Bridge
+A011,Atom Processor D4xx/D5xx/N4xx/N5xx Integrated Graphics Controller
+A000,Atom Processor D4xx/D5xx/N4xx/N5xx DMI Bridge
+A001,Atom Processor D4xx/D5xx/N4xx/N5xx Integrated Graphics Controller
+A002,Atom Processor D4xx/D5xx/N4xx/N5xx Integrated Graphics Controller
+9DF0,Cannon Point-LP CNVi [Wireless-AC]
+9DF5,BayHubTech Integrated SD controller
+9DF9,Cannon Point-LP Thermal Controller
+9DFC,Cannon Point-LP Integrated Sensor Hub
+9DE8,Cannon Point-LP Serial IO I2C Controller #0
+9DE9,Cannon Point-LP Serial IO I2C Controller #1
+9DED,Cannon Point-LP USB 3.1 xHCI Controller
+9DEF,Cannon Point-LP Shared SRAM
+9DC8,Cannon Point-LP High Definition Audio Controller
+9DD3,Cannon Point-LP SATA Controller [AHCI Mode]
+9DE0,Cannon Point-LP MEI Controller #1
+9DE3,Cannon Point-LP Keyboard and Text (KT) Redirection
+9DC4,Cannon Point-LP SD Host Controller
+9DBE,Cannon Point-LP PCI Express Root Port #7
+9DBF,Cannon Point PCI Express Root Port #8
+9DC5,Cannon Point-LP Serial IO I2C Host Controller
+9DB4,Cannon Point-LP PCI Express Root Port #13
+9DB6,Cannon Point-LP PCI Express Root Port #15
+9DB8,Cannon Point-LP PCI Express Root Port #1
+9DBC,Cannon Point-LP PCI Express Root Port #5
+9DAB,Cannon Point-LP Serial IO SPI Controller
+9DB0,Cannon Point-LP PCI Express Root Port #9
+9DB1,Cannon Point-LP PCI Express Root Port #10
+9DB2,Cannon Point-LP PCI Express Root Port #1
+9D84,Cannon Point-LP LPC Controller
+9DA3,Cannon Point-LP SMBus Controller
+9DA4,Cannon Point-LP SPI Controller
+9DA8,Cannon Point-LP Serial IO UART Controller #2
+9DAA,Cannon Point-LP Serial IO SPI Controller
+9D64,Sunrise Point-LP Serial IO I2C Controller #4
+9D65,Sunrise Point-LP Serial IO I2C Controller #5
+9D66,Sunrise Point-LP Serial IO UART Controller #2
+9D70,Sunrise Point-LP HD Audio
+9D71,Sunrise Point-LP HD Audio
+9D60,Sunrise Point-LP Serial IO I2C Controller #0
+9D61,Sunrise Point-LP Serial IO I2C Controller #1
+9D62,Sunrise Point-LP Serial IO I2C Controller #2
+9D63,Sunrise Point-LP Serial IO I2C Controller #3
+9D4E,Sunrise Point LPC/eSPI Controller
+9D50,Sunrise Point LPC Controller
+9D56,Sunrise Point-LP LPC Controller
+9D58,Sunrise Point-LP LPC Controller
+9D3E,iTouch Controller
+9D43,Sunrise Point-LP LPC Controller
+9D46,LPC/eSPI Controller
+9D48,Sunrise Point-LP LPC Controller
+9D31,Sunrise Point-LP Thermal subsystem
+9D32,CSI-2 Host Controller
+9D35,Sunrise Point-LP Integrated Sensor Hub
+9D3A,Sunrise Point-LP CSME HECI #1
+9D3D,Sunrise Point-LP Active Management Technology - SOL
+9D28,Sunrise Point-LP Serial IO UART Controller #1
+9D29,Sunrise Point-LP Serial IO SPI Controller #0
+9D2A,Sunrise Point-LP Serial IO SPI Controller #1
+9D2D,Sunrise Point-LP Secure Digital IO Controller
+9D2F,Sunrise Point-LP USB 3.0 xHCI Controller
+9D19,Sunrise Point-LP PCI Express Root Port #10
+9D1A,Sunrise Point-LP PCI Express Root Port #11
+9D21,Sunrise Point-LP PMC
+9D23,Sunrise Point-LP SMBus
+9D27,Sunrise Point-LP Serial IO UART Controller #0
+9D15,Sunrise Point-LP PCI Express Root Port #6
+9D16,Sunrise Point-LP PCI Express Root Port #7
+9D17,Sunrise Point-LP PCI Express Root Port #8
+9D18,Sunrise Point-LP PCI Express Root Port #9
+9D11,Sunrise Point-LP PCI Express Root Port #2
+9D12,Sunrise Point-LP PCI Express Root Port #3
+9D13,Sunrise Point-LP PCI Express Root Port #4
+9D14,Sunrise Point-LP PCI Express Root Port #5
+9CE5,Wildcat Point-LP Serial IO GSPI Controller #0
+9CE6,Wildcat Point-LP Serial IO GSPI Controller #1
+9D03,Sunrise Point-LP SATA Controller [AHCI mode]
+9D10,Sunrise Point-LP PCI Express Root Port #1
+9CE2,Wildcat Point-LP Serial IO I2C Controller #1
+9CE3,Wildcat Point-LP Serial IO UART Controller #0
+9CE4,Wildcat Point-LP Serial IO UART Controller #1
+9CC7,Wildcat Point-LP LPC Controller
+9CC9,Wildcat Point-LP LPC Controller
+9CE0,Wildcat Point-LP Serial IO DMA Controller
+9CE1,Wildcat Point-LP Serial IO I2C Controller #0
+9CC2,Wildcat Point-LP LPC Controller
+9CC3,Wildcat Point-LP LPC Controller
+9CC5,Wildcat Point-LP LPC Controller
+9CC6,Wildcat Point-LP LPC Controller
+9CBC,Wildcat Point-LP IDE-r Controller
+9CBD,Wildcat Point-LP KT Controller
+9CC1,Wildcat Point-LP LPC Controller
+9CB5,Wildcat Point-LP Secure Digital IO Controller
+9CB6,Wildcat Point-LP Smart Sound Technology Controller
+9CBA,Wildcat Point-LP MEI Controller #1
+9CBB,Wildcat Point-LP MEI Controller #2
+9CA2,Wildcat Point-LP SMBus Controller
+9CA4,Wildcat Point-LP Thermal Management Controller
+9CA6,Wildcat Point-LP USB EHCI Controller
+9CB1,Wildcat Point-LP USB xHCI Controller
+9C96,Wildcat Point-LP PCI Express Root Port #4
+9C98,Wildcat Point-LP PCI Express Root Port #5
+9C9A,Wildcat Point-LP PCI Express Root Port #6
+9CA0,Wildcat Point-LP High Definition Audio Controller
+9C8F,Wildcat Point-LP SATA Controller [RAID Mode]
+9C90,Wildcat Point-LP PCI Express Root Port #1
+9C92,Wildcat Point-LP PCI Express Root Port #2
+9C94,Wildcat Point-LP PCI Express Root Port #3
+9C66,8 Series SPI Controller #1
+9C83,Wildcat Point-LP SATA Controller [AHCI Mode]
+9C85,Wildcat Point-LP SATA Controller [RAID Mode]
+9C87,Wildcat Point-LP SATA Controller [RAID Mode]
+9C61,8 Series I2C Controller #0
+9C62,8 Series I2C Controller #1
+9C63,8 Series UART Controller #0
+9C64,8 Series UART Controller #1
+9C65,8 Series SPI Controller #0
+9C45,8 Series LPC Controller
+9C46,8 Series LPC Controller
+9C47,8 Series LPC Controller
+9C60,8 Series Low Power Sub-System DMA
+9C41,8 Series LPC Controller
+9C42,8 Series LPC Controller
+9C43,8 Series LPC Controller
+9C44,8 Series LPC Controller
+9C3C,8 Series HECI IDER
+9C3D,8 Series HECI KT
+9C40,8 Series LPC Controller
+9C35,8 Series SDIO Controller
+9C36,8 Series Audio DSP Controller
+9C3A,8 Series HECI #0
+9C3B,8 Series HECI #1
+9C26,8 Series USB EHCI #1
+9C2D,8 Series USB EHCI #2
+9C31,8 Series USB xHCI HC
+9C21,8 Series HD Audio Controller
+9C22,8 Series SMBus Controller
+9C23,8 Series CHAP Counters
+9C24,8 Series Thermal
+9C1C,8 Series PCI Express Root Port 7
+9C1D,8 Series PCI Express Root Port 7
+9C1E,8 Series PCI Express Root Port 8
+9C1F,8 Series PCI Express Root Port 8
+9C20,8 Series HD Audio Controller
+9C1A,8 Series PCI Express Root Port 6
+9C1B,8 Series PCI Express Root Port 6
+9C18,8 Series PCI Express Root Port 5
+9C19,8 Series PCI Express Root Port 5
+9C15,8 Series PCI Express Root Port 3
+9C16,8 Series PCI Express Root Port 4
+9C17,8 Series PCI Express Root Port 4
+9C11,8 Series PCI Express Root Port 1
+9C12,8 Series PCI Express Root Port 2
+9C13,8 Series PCI Express Root Port 2
+9C14,8 Series PCI Express Root Port 3
+9C10,8 Series PCI Express Root Port 1
+9C0C,8 Series SATA Controller [Reserved]
+9C0D,8 Series SATA Controller [Reserved]
+9C0E,8 Series SATA Controller 1 [RAID mode]
+9C0F,8 Series SATA Controller 1 [RAID mode]
+9C08,8 Series SATA Controller 2 [IDE mode]
+9C09,8 Series SATA Controller 2 [IDE mode]
+9C0A,8 Series SATA Controller [Reserved]
+9C0B,8 Series SATA Controller [Reserved]
+9C04,8 Series SATA Controller 1 [RAID mode]
+9C05,8 Series SATA Controller 1 [RAID mode]
+9C06,8 Series SATA Controller 1 [RAID mode]
+9C07,8 Series SATA Controller 1 [RAID mode]
+9C01,8 Series SATA Controller 1 [IDE mode]
+9C02,8 Series SATA Controller 1 [AHCI mode]
+9C03,8 Series SATA Controller 1 [AHCI mode]
+9BCC,Comet Lake UHD Graphics
+9BE6,Comet Lake-S GT2 [UHD Graphics P630]
+9BF6,Coffee Lake-S GT2 [UHD Graphics P630]
+9C00,8 Series SATA Controller 1 [IDE mode]
+9BCA,Comet Lake UHD Graphics
+9BC6,Comet Lake-S GT2 [UHD Graphics P630]
+9BC8,CometLake-S GT2 [UHD Graphics 630]
+9BC5,CometLake-S GT2 [UHD Graphics 630]
+9BC4,CometLake-H GT2 [UHD Graphics]
+9BAA,Comet Lake UHD Graphics
+9BAC,Comet Lake UHD Graphics
+9BA8,CometLake-S GT1 [UHD Graphics 610]
+9BA4,Comet Lake-H GT1 [UHD Graphics 610]
+9B61,Comet Lake-U v1 4c Host Bridge/DRAM Controller
+9B63,10th Gen Core Processor Host Bridge/DRAM Registers
+9B64,10th Gen Core Processor Host Bridge/DRAM Registers
+9B53,Comet Lake-S 6c Host Bridge/DRAM Controller
+9B44,10th Gen Core Processor Host Bridge/DRAM Registers
+9B54,10th Gen Core Processor Host Bridge/DRAM Registers
+9B43,10th Gen Core Processor Host Bridge/DRAM Registers
+9B33,Comet Lake-S 6c Host Bridge/DRAM Controller
+9B41,CometLake-U GT2 [UHD Graphics]
+9A68,TigerLake-H GT1 [UHD Graphics]
+9A70,Tiger Lake-H GT1 [UHD Graphics]
+9A78,Tiger Lake-LP GT2 [UHD Graphics G4]
+9B21,Comet Lake-U GT2 [UHD Graphics 620]
+9A36,11th Gen Core Processor Host Bridge/DRAM Registers
+9A60,TigerLake-H GT1 [UHD Graphics]
+9A40,Tiger Lake-UP4 GT2 [Iris Xe Graphics]
+9A49,TigerLake-LP GT2 [Iris Xe Graphics]
+9A2F,Tiger Lake-H Thunderbolt 4 PCI Express Root Port #2
+9A31,Tiger Lake-H Thunderbolt 4 PCI Express Root Port #3
+9A33,Tiger Lake Trace Hub
+9A2B,Tiger Lake-H Thunderbolt 4 PCI Express Root Port #0
+9A2D,Tiger Lake-H Thunderbolt 4 PCI Express Root Port #1
+9A27,Tiger Lake-LP Thunderbolt 4 PCI Express Root Port #2
+9A29,Tiger Lake-LP Thunderbolt 4 PCI Express Root Port #3
+9A26,11th Gen Core Processor Host Bridge/DRAM Registers
+9A23,Tiger Lake-LP Thunderbolt 4 PCI Express Root Port #0
+9A25,Tiger Lake-LP Thunderbolt 4 PCI Express Root Port #1
+9A1F,Tiger Lake-H Thunderbolt 4 NHI #0
+9A21,Tiger Lake-H Thunderbolt 4 NHI #1
+9A1D,Tiger Lake-LP Thunderbolt 4 NHI #1
+9A17,Tiger Lake-H Thunderbolt 4 USB Controller
+9A13,Tiger Lake-LP Thunderbolt 4 USB Controller
+9A14,11th Gen Core Processor Host Bridge/DRAM Registers
+9A1B,Tiger Lake-LP Thunderbolt 4 NHI #0
+9A0D,Tigerlake Telemetry Aggregator Driver
+9A0F,11th Gen Core Processor PCIe Controller #0
+9A11,GNA Scoring Accelerator module
+9A0B,Volume Management Device NVMe RAID Controller
+9A01,11th Gen Core Processor PCIe Controller #1
+9A03,TigerLake-LP Dynamic Tuning Processor Participant
+9841,Lakefield GT1.5 [UHD Graphics]
+9A09,11th Gen Core Processor PCIe Controller
+9840,Lakefield GT2 [UHD Graphics]
+9622,Integrated RAID
+9641,Integrated RAID
+96A1,Integrated RAID
+9001,IXP2400 Network Processor
+9002,IXP2300 Network Processor
+9004,IXP2800 Network Processor
+9621,Integrated RAID
+8D7D,C610/X99 series chipset MS SMBus 0
+8D7E,C610/X99 series chipset MS SMBus 1
+8D7F,C610/X99 series chipset MS SMBus 2
+9000,IXP2000 Family Network Processor
+8D66,C610/X99 series chipset sSATA Controller [RAID mode]
+8D68,C610/X99 series chipset sSATA Controller [IDE mode]
+8D6E,C610/X99 series chipset sSATA Controller [RAID mode]
+8D7C,C610/X99 series chipset SPSR
+8D4E,C610/X99 series chipset LPC Controller
+8D4F,C610/X99 series chipset LPC Controller
+8D60,C610/X99 series chipset sSATA Controller [IDE mode]
+8D62,C610/X99 series chipset sSATA Controller [AHCI mode]
+8D64,C610/X99 series chipset sSATA Controller [RAID mode]
+8D4B,C610/X99 series chipset LPC Controller
+8D4C,C610/X99 series chipset LPC Controller
+8D4D,C610/X99 series chipset LPC Controller
+8D47,C610/X99 series chipset LPC Controller
+8D48,C610/X99 series chipset LPC Controller
+8D49,C610/X99 series chipset LPC Controller
+8D4A,C610/X99 series chipset LPC Controller
+8D43,C610/X99 series chipset LPC Controller
+8D44,C610/X99 series chipset LPC Controller
+8D45,C610/X99 series chipset LPC Controller
+8D46,C610/X99 series chipset LPC Controller
+8D3D,C610/X99 series chipset KT Controller
+8D40,C610/X99 series chipset LPC Controller
+8D41,C610/X99 series chipset LPC Controller
+8D42,C610/X99 series chipset LPC Controller
+8D34,C610/X99 series chipset NAND Controller
+8D3A,C610/X99 series chipset MEI Controller #1
+8D3B,C610/X99 series chipset MEI Controller #2
+8D3C,C610/X99 series chipset IDE-r Controller
+8D24,C610/X99 series chipset Thermal Subsystem
+8D26,C610/X99 series chipset USB Enhanced Host Controller #1
+8D2D,C610/X99 series chipset USB Enhanced Host Controller #2
+8D31,C610/X99 series chipset USB xHCI Host Controller
+8D33,C610/X99 series chipset LAN Controller
+8D1F,C610/X99 series chipset PCI Express Root Port #8
+8D20,C610/X99 series chipset HD Audio Controller
+8D21,C610/X99 series chipset HD Audio Controller
+8D22,C610/X99 series chipset SMBus Controller
+8D1B,C610/X99 series chipset PCI Express Root Port #6
+8D1C,C610/X99 series chipset PCI Express Root Port #7
+8D1D,C610/X99 series chipset PCI Express Root Port #7
+8D1E,C610/X99 series chipset PCI Express Root Port #8
+8D16,C610/X99 series chipset PCI Express Root Port #4
+8D17,C610/X99 series chipset PCI Express Root Port #4
+8D18,C610/X99 series chipset PCI Express Root Port #5
+8D19,C610/X99 series chipset PCI Express Root Port #5
+8D1A,C610/X99 series chipset PCI Express Root Port #6
+8D13,C610/X99 series chipset PCI Express Root Port #2
+8D14,C610/X99 series chipset PCI Express Root Port #3
+8D15,C610/X99 series chipset PCI Express Root Port #3
+8D0E,C610/X99 series chipset SATA Controller [RAID mode]
+8D10,C610/X99 series chipset PCI Express Root Port #1
+8D11,C610/X99 series chipset PCI Express Root Port #1
+8D12,C610/X99 series chipset PCI Express Root Port #2
+8D02,C610/X99 series chipset 6-Port SATA Controller [AHCI mode]
+8D04,C610/X99 series chipset SATA Controller [RAID mode]
+8D06,C610/X99 series chipset SATA Controller [RAID mode]
+8D08,C610/X99 series chipset 2-port SATA Controller [IDE mode]
+8CC4,Z97 Chipset LPC Controller
+8CC5,QM97 Chipset LPC Controller
+8CC6,H97 Chipset LPC Controller
+8D00,C610/X99 series chipset 4-port SATA Controller [IDE mode]
+8CBC,9 Series Chipset Family IDE-R Controller
+8CBD,9 Series Chipset Family KT Controller
+8CC1,9 Series Chipset Family LPC Controller
+8CC2,9 Series Chipset Family LPC Controller
+8CC3,HM97 Chipset LPC Controller
+8CAD,9 Series Chipset Family USB EHCI Controller #2
+8CB1,9 Series Chipset Family USB xHCI Controller
+8CB3,9 Series Chipset Family LAN Controller
+8CBA,9 Series Chipset Family ME Interface #1
+8CBB,9 Series Chipset Family ME Interface #2
+8CA0,9 Series Chipset Family HD Audio Controller
+8CA2,9 Series Chipset Family SMBus Controller
+8CA4,9 Series Chipset Family Thermal Controller
+8CA6,9 Series Chipset Family USB EHCI Controller #1
+8C98,9 Series Chipset Family PCI Express Root Port 5
+8C9A,9 Series Chipset Family PCI Express Root Port 6
+8C9C,9 Series Chipset Family PCI Express Root Port 7
+8C9E,9 Series Chipset Family PCI Express Root Port 8
+8C8F,9 Series Chipset Family SATA Controller [RAID Mode]
+8C90,9 Series Chipset Family PCI Express Root Port 1
+8C92,9 Series Chipset Family PCI Express Root Port 2
+8C94,9 Series Chipset Family PCI Express Root Port 3
+8C96,9 Series Chipset Family PCI Express Root Port 4
+8C87,9 Series Chipset Family SATA Controller [RAID Mode]
+8C88,9 Series Chipset Family SATA Controller [IDE Mode]
+8C89,9 Series Chipset Family SATA Controller [IDE Mode]
+8C8E,9 Series Chipset Family SATA Controller [RAID Mode]
+8C83,9 Series Chipset Family SATA Controller [AHCI Mode]
+8C84,9 Series Chipset Family SATA Controller [RAID Mode]
+8C85,9 Series Chipset Family SATA Controller [RAID Mode]
+8C86,9 Series Chipset Family SATA Controller [RAID Mode]
+8C5F,8 Series/C220 Series Chipset Family LPC Controller
+8C80,9 Series Chipset Family SATA Controller [IDE Mode]
+8C81,9 Series Chipset Family SATA Controller [IDE Mode]
+8C82,9 Series Chipset Family SATA Controller [AHCI Mode]
+8C5C,H81 Express LPC Controller
+8C5D,8 Series/C220 Series Chipset Family LPC Controller
+8C5E,8 Series/C220 Series Chipset Family LPC Controller
+8C58,8 Series/C220 Series Chipset Family WS SKU LPC Controller
+8C59,8 Series/C220 Series Chipset Family LPC Controller
+8C5A,8 Series/C220 Series Chipset Family LPC Controller
+8C5B,8 Series/C220 Series Chipset Family LPC Controller
+8C55,8 Series/C220 Series Chipset Family LPC Controller
+8C56,C226 Series Chipset Family Server Advanced SKU LPC Controller
+8C57,8 Series/C220 Series Chipset Family LPC Controller
+8C52,C222 Series Chipset Family Server Essential SKU LPC Controller
+8C53,8 Series/C220 Series Chipset Family LPC Controller
+8C54,C224 Series Chipset Family Server Standard SKU LPC Controller
+8C4D,8 Series/C220 Series Chipset Family LPC Controller
+8C4E,Q87 Express LPC Controller
+8C4F,QM87 Express LPC Controller
+8C50,B85 Express LPC Controller
+8C51,8 Series/C220 Series Chipset Family LPC Controller
+8C49,HM86 Express LPC Controller
+8C4A,H87 Express LPC Controller
+8C4B,HM87 Express LPC Controller
+8C4C,Q85 Express LPC Controller
+8C46,Z85 Express LPC Controller
+8C47,8 Series/C220 Series Chipset Family LPC Controller
+8C48,8 Series/C220 Series Chipset Family LPC Controller
+8C41,8 Series Chipset Family Mobile Super SKU LPC Controller
+8C42,8 Series/C220 Series Chipset Family Desktop Super SKU LPC Controller
+8C43,8 Series/C220 Series Chipset Family LPC Controller
+8C44,Z87 Express LPC Controller
+8C45,8 Series/C220 Series Chipset Family LPC Controller
+8C3C,8 Series/C220 Series Chipset Family IDE-r Controller
+8C3D,8 Series/C220 Series Chipset Family KT Controller
+8C40,8 Series/C220 Series Chipset Family LPC Controller
+8C33,8 Series/C220 Series Chipset Family LAN Controller
+8C34,8 Series/C220 Series Chipset Family NAND Controller
+8C3A,8 Series/C220 Series Chipset Family MEI Controller #1
+8C3B,8 Series/C220 Series Chipset Family MEI Controller #2
+8C24,8 Series Chipset Family Thermal Management Controller
+8C26,8 Series/C220 Series Chipset Family USB EHCI #1
+8C2D,8 Series/C220 Series Chipset Family USB EHCI #2
+8C31,8 Series/C220 Series Chipset Family USB xHCI
+8C21,8 Series/C220 Series Chipset High Definition Audio Controller
+8C22,8 Series/C220 Series Chipset Family SMBus Controller
+8C23,8 Series Chipset Family CHAP Counters
+8C1C,8 Series/C220 Series Chipset Family PCI Express Root Port #7
+8C1D,8 Series/C220 Series Chipset Family PCI Express Root Port #7
+8C1E,8 Series/C220 Series Chipset Family PCI Express Root Port #8
+8C1F,8 Series/C220 Series Chipset Family PCI Express Root Port #8
+8C20,8 Series/C220 Series Chipset High Definition Audio Controller
+8C18,8 Series/C220 Series Chipset Family PCI Express Root Port #5
+8C19,8 Series/C220 Series Chipset Family PCI Express Root Port #5
+8C1A,8 Series/C220 Series Chipset Family PCI Express Root Port #6
+8C1B,8 Series/C220 Series Chipset Family PCI Express Root Port #6
+8C13,8 Series/C220 Series Chipset Family PCI Express Root Port #2
+8C14,8 Series/C220 Series Chipset Family PCI Express Root Port #3
+8C15,8 Series/C220 Series Chipset Family PCI Express Root Port #3
+8C16,8 Series/C220 Series Chipset Family PCI Express Root Port #4
+8C17,8 Series/C220 Series Chipset Family PCI Express Root Port #4
+8C0F,8 Series/C220 Series Chipset Family SATA Controller 1 [RAID mode]
+8C10,8 Series/C220 Series Chipset Family PCI Express Root Port #1
+8C11,8 Series/C220 Series Chipset Family PCI Express Root Port #1
+8C12,8 Series/C220 Series Chipset Family PCI Express Root Port #2
+8C07,8 Series/C220 Series Chipset Family SATA Controller 1 [RAID mode]
+8C08,8 Series/C220 Series Chipset Family 2-port SATA Controller 2 [IDE mode]
+8C09,8 Series/C220 Series Chipset Family 2-port SATA Controller 2 [IDE mode]
+8C0E,8 Series/C220 Series Chipset Family SATA Controller 1 [RAID mode]
+8C03,8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]
+8C04,8 Series/C220 Series Chipset Family SATA Controller 1 [RAID mode]
+8C05,8 Series/C220 Series Chipset Family SATA Controller 1 [RAID mode]
+8C06,8 Series/C220 Series Chipset Family SATA Controller 1 [RAID mode]
+8C00,8 Series/C220 Series Chipset Family 4-port SATA Controller 1 [IDE mode]
+8C01,8 Series Chipset Family 4-port SATA Controller 1 [IDE mode] - Mobile
+8C02,8 Series/C220 Series Chipset Family 6-port SATA Controller 1 [AHCI mode]
+8A56,Iris Plus Graphics G1 (Ice Lake)
+8A5A,Iris Plus Graphics G4 (Ice Lake)
+8A5C,Iris Plus Graphics G4 (Ice Lake)
+8A58,Ice Lake-Y GT1 [UHD Graphics G1]
+8A23,Ice Lake Thunderbolt 3 PCI Express Root Port #3
+8A51,Iris Plus Graphics G7 (Ice Lake)
+8A52,Iris Plus Graphics G7
+8A53,Iris Plus Graphics G7
+8A1D,Ice Lake Thunderbolt 3 PCI Express Root Port #0
+8A1F,Ice Lake Thunderbolt 3 PCI Express Root Port #1
+8A21,Ice Lake Thunderbolt 3 PCI Express Root Port #2
+8A13,Ice Lake Thunderbolt 3 USB Controller
+8A17,Ice Lake Thunderbolt 3 NHI #0
+8A14,Ice Lake Processor Host Bridge/DRAM Registers
+8A19,Image Signal Processor
+8A0D,Ice Lake Thunderbolt 3 NHI #1
+8A11,GNA Scoring Accelerator Module
+8A12,Ice Lake-LP Processor Host Bridge/DRAM Registers
+8818,Platform Controller Hub EG20T Controller Area Network (CAN) Controller
+8819,Platform Controller Hub EG20T IEEE 1588 Hardware Assist
+8A03,Processor Power and Thermal Controller
+8814,Platform Controller Hub EG20T UART Controller 3
+8815,Platform Controller Hub EG20T DMA Controller #2
+8816,Platform Controller Hub EG20T Serial Peripheral Interface Bus
+8817,Platform Controller Hub EG20T I2C Controller
+8811,Platform Controller Hub EG20T UART Controller 0
+8812,Platform Controller Hub EG20T UART Controller 1
+8813,Platform Controller Hub EG20T UART Controller 2
+880D,Platform Controller Hub EG20T USB OHCI Controller #2
+880E,Platform Controller Hub EG20T USB OHCI Controller #3
+880F,Platform Controller Hub EG20T USB2 EHCI Controller #1
+8810,Platform Controller Hub EG20T DMA Controller #1
+8809,Platform Controller Hub EG20T SDIO Controller #1
+880A,Platform Controller Hub EG20T SDIO Controller #2
+880B,Platform Controller Hub EG20T SATA AHCI Controller
+880C,Platform Controller Hub EG20T USB OHCI Controller #1
+8805,Platform Controller Hub EG20T USB OHCI Controller #5
+8806,Platform Controller Hub EG20T USB OHCI Controller #6
+8807,Platform Controller Hub EG20T USB2 EHCI Controller #2
+8808,Platform Controller Hub EG20T USB Client Controller
+8801,Platform Controller Hub EG20T Packet Hub
+8802,Platform Controller Hub EG20T Gigabit Ethernet Controller
+8803,Platform Controller Hub EG20T General Purpose IO Controller
+8804,Platform Controller Hub EG20T USB OHCI Controller #4
+87C0,UHD Graphics 617
+8800,Platform Controller Hub EG20T PCI Express Port
+87CA,UHD Graphics 617
+8603,Ice Lake-LP Dynamic Tuning Processor Participant
+84E4,460GX - 84460GX Memory Data Controller (MDC)
+84E6,460GX - 82466GX Wide and fast PCI eXpander Bridge (WXB)
+84EA,460GX - 84460GX AGP Bridge (GXB function 1)
+8500,IXP4XX Network Processor (IXP420/421/422/425/IXC1100)
+84E0,460GX - 84460GX System Address Controller (SAC)
+84E1,460GX - 84460GX System Data Controller (SDC)
+84E2,460GX - 84460GX AGP Bridge (GXB function 2)
+84E3,460GX - 84460GX Memory Address Controller (MAC)
+84C4,450KX/GX [Orion] - 82454KX/GX PCI bridge
+84C5,450KX/GX [Orion] - 82453KX/GX Memory controller
+84CA,450NX - 82451NX Memory & I/O Controller
+84CB,450NX - 82454NX/84460GX PCI Expander Bridge
+8183,Atom Processor E6xx Configuration Unit
+8184,Atom Processor E6xx PCI Express Port 1
+8185,Atom Processor E6xx PCI Express Port 2
+8186,Atom Processor E6xx LPC Bridge
+811E,US15W/US15X/US15L/UL11L SCH [Poulsbo] SDIO/MMC Controller #3
+8180,Atom Processor E6xx PCI Express Port 3
+8181,Atom Processor E6xx PCI Express Port 4
+8182,Atom Processor E6xx Integrated Graphics Controller
+8119,US15W/US15X/US15L/UL11L SCH [Poulsbo] LPC Bridge
+811A,US15W/US15X/US15L/UL11L SCH [Poulsbo] IDE Controller
+811B,US15W/US15X/US15L/UL11L SCH [Poulsbo] HD Audio Controller
+811C,US15W/US15X/US15L/UL11L SCH [Poulsbo] SDIO/MMC Controller #1
+811D,US15W/US15X/US15L/UL11L SCH [Poulsbo] SDIO/MMC Controller #2
+8115,US15W/US15X/US15L/UL11L SCH [Poulsbo] USB UHCI Controller #2
+8116,US15W/US15X/US15L/UL11L SCH [Poulsbo] USB UHCI Controller #3
+8117,US15W/US15X/US15L/UL11L SCH [Poulsbo] USB EHCI Controller
+8118,US15W/US15X/US15L/UL11L SCH [Poulsbo] USB Client Controller
+8109,US15L/UL11L SCH [Poulsbo] Graphics Controller
+8110,US15W/US15X/US15L/UL11L SCH [Poulsbo] PCI Express Port 1
+8112,US15W/US15X/US15L/UL11L SCH [Poulsbo] PCI Express Port 2
+8114,US15W/US15X/US15L/UL11L SCH [Poulsbo] USB UHCI Controller #1
+8003,Trusted Execution Technology Registers
+8100,US15W/US15X SCH [Poulsbo] Host Bridge
+8101,US15L/UL11L SCH [Poulsbo] Host Bridge
+8108,US15W/US15X SCH [Poulsbo] Graphics Controller
+7EC5,Meteor Lake-P Thunderbolt 4 PCI Express Root Port #1
+7EC6,Meteor Lake-P Thunderbolt 4 PCI Express Root Port #2
+7EC7,Meteor Lake-P Thunderbolt 4 PCI Express Root Port #3
+8002,Trusted Execution Technology Registers
+7EC0,Meteor Lake-P Thunderbolt 4 USB Controller
+7EC2,Meteor Lake-P Thunderbolt 4 NHI #0
+7EC3,Meteor Lake-P Thunderbolt 4 NHI #1
+7EC4,Meteor Lake-P Thunderbolt 4 PCI Express Root Port #0
+7E79,Meteor Lake-P Serial IO I2C Controller #1
+7E7A,Meteor Lake-P Serial IO I2C Controller #2
+7E7B,Meteor Lake-P Serial IO I2C Controller #3
+7E7D,Meteor Lake-P USB 3.2 Gen 2x1 xHCI Host Controller
+7E7E,Meteor Lake-P USB Device Controller
+7E46,Meteor Lake-P Serial IO SPI Controller #2
+7E50,Meteor Lake-P Serial IO I2C Controller #4
+7E51,Meteor Lake-P Serial IO I2C Controller #5
+7E52,Meteor Lake-P Serial IO UART Controller #2
+7E78,Meteor Lake-P Serial IO I2C Controller #0
+7E25,Meteor Lake-P Serial IO UART Controller #0
+7E26,Meteor Lake-P Serial IO UART Controller #1
+7E27,Meteor Lake-P Serial IO SPI Controller #0
+7E28,Meteor Lake-P HD Audio Controller
+7E30,Meteor Lake-P Serial IO SPI Controller #1
+7DD5,Meteor Lake-P [Intel Graphics]
+7E01,Meteor Lake-P LPC/eSPI Controller
+7E22,Meteor Lake-P SMBus Controller
+7E23,Meteor Lake-P SPI Controller
+7E24,Meteor Lake-P Trace Hub
+7D0B,Volume Management Device NVMe RAID Controller Intel
+7D40,Meteor Lake-M [Intel Graphics]
+7D45,Meteor Lake-P [Intel Graphics]
+7D55,Meteor Lake-P [Intel Graphics]
+7D60,Meteor Lake-M [Intel Graphics]
+7AFC,Alder Lake-S PCH Serial IO I2C Controller #4
+7AFD,Alder Lake-S PCH Serial IO I2C Controller #5
+7AE8,Alder Lake-S PCH HECI Controller #1
+7AF0,Alder Lake-S PCH CNVi WiFi
+7ACE,Alder Lake-S PCH Serial IO I2C Controller #2
+7ACF,Alder Lake-S PCH Serial IO I2C Controller #3
+7AD0,Alder Lake-S HD Audio Controller
+7AE0,Alder Lake-S PCH USB 3.2 Gen 2x2 XHCI Controller
+7AE2,Alder Lake-S PCH SATA Controller [AHCI Mode]
+7ABF,Alder Lake-S PCH PCI Express Root Port #8
+7AC8,Alder Lake-S PCH PCI Express Root Port #25
+7ACD,Alder Lake-S PCH Serial IO I2C Controller #1
+7ACC,Alder Lake-S PCH Serial IO I2C Controller #0
+7AB0,Alder Lake-S PCH PCI Express Root Port #9
+7AB4,Alder Lake-S PCH PCI Express Root Port #13
+7ABD,Alder Lake-S PCH PCI Express Root Port #6
+7AB8,Alder Lake-S PCH PCI Express Root Port #1
+7AB9,Alder Lake-S PCH PCI Express Root Port #2
+7ABC,Alder Lake-S PCH PCI Express Root Port #5
+7AA8,Alder Lake-S PCH Serial IO UART #0
+7AAB,Alder Lake-S PCH Serial IO SPI Controller #1
+7AA3,Alder Lake-S PCH SMBus Controller
+7AA4,Alder Lake-S PCH SPI Controller
+7AA7,Alder Lake-S PCH Shared SRAM
+7A84,Z690 Chipset LPC/eSPI Controller
+7601,82372FB PIIX5 IDE
+7602,82372FB PIIX5 USB
+7603,82372FB PIIX5 SMBus
+7800,82740 (i740) AGP Graphics Accelerator
+7560,XMM7560 LTE Advanced Pro Modem
+71A1,440GX - 82443GX AGP bridge
+71A2,440GX - 82443GX Host bridge (AGP disabled)
+7360,XMM7360 LTE Advanced Modem
+7600,82372FB PIIX5 ISA
+7198,82440MX ISA Bridge
+7199,82440MX EIDE Controller
+719A,82440MX USB Universal Host Controller
+719B,82440MX Power Management Controller
+71A0,440GX - 82443GX Host bridge
+7191,440BX/ZX/DX - 82443BX/ZX/DX AGP bridge
+7192,440BX/ZX/DX - 82443BX/ZX/DX Host bridge (AGP disabled)
+7194,82440MX Host Bridge
+7195,82440MX AC'97 Audio Controller
+7196,82440MX AC'97 Modem Controller
+7128,82810-M DC-100 System and Graphics Controller
+712A,82810-M DC-133 System and Graphics Controller
+7180,440LX/EX - 82443LX/EX Host bridge
+7181,440LX/EX - 82443LX/EX AGP bridge
+7190,440BX/ZX/DX - 82443BX/ZX/DX Host bridge
+7123,82810 DC-100 (CGC) Chipset Graphics Controller
+7124,82810E DC-133 (GMCH) Graphics Memory Controller Hub
+7125,82810E DC-133 (CGC) Chipset Graphics Controller
+7126,82810 DC-133 System and Graphics Controller
+7112,82371AB/EB/MB PIIX4 USB
+7113,82371AB/EB/MB PIIX4 ACPI
+7120,82810 GMCH (Graphics Memory Controller Hub)
+7121,82810 (CGC) Chipset Graphics Controller
+7122,82810 DC-100 (GMCH) Graphics Memory Controller Hub
+7051,PB 642365-003 (Business Video Conferencing Card)
+7100,430TX - 82439TX MTXC
+7110,82371AB/EB/MB PIIX4 ISA
+7111,82371AB/EB/MB PIIX4 IDE
+6FFE,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+7000,82371SB PIIX3 ISA [Natoma/Triton II]
+7010,82371SB PIIX3 IDE [Natoma/Triton II]
+7020,82371SB PIIX3 USB [Natoma/Triton II]
+7030,430VX - 82437VX TVX [Triton VX]
+7050,Intercast Video Capture Card
+6FF9,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+6FFA,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+6FFB,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+6FFC,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+6FFD,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+6FEE,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+6FEF,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+6FF0,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+6FF1,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+6FF8,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+6FEA,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+6FEB,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+6FEC,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+6FED,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+6FE6,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+6FE7,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+6FE8,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+6FE9,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+6FE1,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+6FE2,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+6FE3,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+6FE4,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+6FE5,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+6FD5,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 3 Thermal Control
+6FD6,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 2 Error
+6FD7,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 3 Error
+6FE0,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Caching Agent
+6FD0,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 0 Thermal Control
+6FD1,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 1 Thermal Control
+6FD2,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 0 Error
+6FD3,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 1 Error
+6FD4,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 1 - Channel 2 Thermal Control
+6FCC,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+6FCD,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+6FCE,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+6FCF,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+6FC9,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+6FCA,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+6FCB,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+6FC5,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+6FC6,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+6FC7,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+6FC8,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+6FC0,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+6FC1,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+6FC2,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+6FC3,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+6FC4,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Power Control Unit
+6FBB,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 2/3 Interface
+6FBC,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Interface
+6FBD,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Interface
+6FBE,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Interface
+6FBF,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 0/1 Interface
+6FB7,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 3 Error
+6FB8,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 2/3 Interface
+6FB9,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 2/3 Interface
+6FBA,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D DDRIO Channel 2/3 Interface
+6FB4,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 2 Thermal Control
+6FB5,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 3 Thermal Control
+6FB6,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 2 Error
+6FB0,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 0 Thermal Control
+6FB1,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 1 Thermal Control
+6FB2,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 0 Error
+6FB3,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel 1 Error
+6FAB,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel Target Address Decoder
+6FAC,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel Target Address Decoder
+6FAD,Xeon E7 v4/Xeon E5 v4/Xeon E3 v4/Xeon D Memory Controller 0 - Channel Target Address Decoder
+5690,DG2 [Arc A770M]
+5691,DG2 [Arc A730M]
+5692,DG2 [Arc A550M]
+5693,DG2 [Arc A370M]
+5694,DG2 [Arc A350M]
+5695,DG2 [Iris Xe MAX A200M]
+5696,DG2 [Arc A570M]
+5697,DG2 [Arc A530M]
+5698,DG2 [Arc Xe Graphics]
+56A0,DG2 [Arc A770]
+56A1,DG2 [Arc A750]
+56A2,DG2 [Arc A580]
+56A3,DG2 [Arc Xe Graphics]
+56A4,DG2 [Arc Xe Graphics]
+56A5,DG2 [Arc A380]
+56A6,DG2 [Arc A310]
+56A7,DG2 [Arc Xe Graphics]
+56A8,DG2 [Arc Xe Graphics]
+56A9,DG2 [Arc Xe Graphics]
+56B0,DG2 [Arc Pro A30M]
+56B1,DG2 [Arc Pro A40/A50]
+56B2,DG2 [Arc Pro A60M]
+56B3,DG2 [Arc Pro A60]
+56C0,ATS-M [Data Center GPU Flex 170]
+56C1,ATS-M [Data Center GPU Flex 140]
