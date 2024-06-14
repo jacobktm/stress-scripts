@@ -1,0 +1,5 @@
+*.tar.xz filter=lfs diff=lfs merge=lfs -text
+menu filter=lfs diff=lfs merge=lfs -text
+*.so.* filter=lfs diff=lfs merge=lfs -text
+cmake filter=lfs diff=lfs merge=lfs -text
+stress-ng filter=lfs diff=lfs merge=lfs -text
