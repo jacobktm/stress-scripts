@@ -7,6 +7,12 @@
 + lib/**
 + share/**
 + stressmon/**
+
+# Explicitly exclude .git and .git* files in the stressmon directory
+- stressmon/.git*
+- stressmon/.git/**
+
+# Include specific files and folders
 + amddevids
 + compare.ptx
 + IGNORE_PATTERNS
