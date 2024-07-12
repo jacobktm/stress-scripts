@@ -3,3 +3,5 @@ logs
 *.csv
 log_*.txt
 *.swp
+test_gui
+_internal

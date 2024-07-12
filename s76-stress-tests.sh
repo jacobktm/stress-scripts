@@ -103,5 +103,5 @@ if [ $INTEGRATED_GRAPHICS -eq 1 ];
 then
     USE_INTEGRATED_GRAPHICS=" -i"
 fi
-bash s76-testpy.sh
+bash s76-testguipy.sh &
 bash s76-stress.sh${USE_INTEGRATED_GRAPHICS}

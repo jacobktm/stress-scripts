@@ -478,8 +478,8 @@ class RealTimeOutputGUI:
             fan_data = {fan_driver: [] for fan_driver in self.sys_fan.get_drivers()}
             driver = ''
             for params in self.sys_fan:
-                if driver != fans.get_section(params):
-                    driver = fans.get_section(params)
+                if driver != self.sys_fan.get_section(params):
+                    driver = self.sys_fan.get_section(params)
                 label = self.sys_fan.get_label(params)
                 current = f"{self.sys_fan.get_current(params)} RPM"
                 min_val = f"{self.sys_fan.get_min(params)} RPM"
