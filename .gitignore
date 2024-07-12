@@ -2,3 +2,4 @@ kernel-benchmark.tar.xz
 logs
 *.csv
 log_*.txt
+*.swp
