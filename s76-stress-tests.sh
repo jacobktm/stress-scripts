@@ -75,8 +75,6 @@ then
         if [ $(lspci | grep -c NVIDIA) -gt 0 ];
         then
             USE_GPU_BURN=1
-        else
-            USE_UNIGINE=1
         fi
     fi
 

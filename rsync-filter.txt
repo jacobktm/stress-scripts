@@ -30,11 +30,13 @@
 + s76-stress-ng.sh
 + s76-stress-tests.sh
 + s76-testpy.sh
++ s76-testguipy.sh
 + s76-unigine-valley.sh
 + s76utils.py
 + sudomodule.py
 + system76_thelio_io_2_default.uf2
 + test.py
++ test_gui.tar.xz
 + valley_1.0.cfg
 + venids
 
