@@ -7,7 +7,7 @@ SINGLE_RUN=0
 RUN_LOOP=true
 
 download_llvm() {
-    RESPONSE=$(curl -I -s -o /dev/null -w "%{http_code}" "http://10.17.89.69:5000/download/llvm-project-main.zip")
+    RESPONSE=$(curl -I -s --connect-timeout 10 -o /dev/null -w "%{http_code}" "http://10.17.89.69:5000/download/llvm-project-main.zip")
     LLVM_URL="https://github.com/llvm/llvm-project/archive/refs/heads/main.zip"
     if [ "$RESPONSE" -eq 200 ]; then
         LLVM_URL="http://10.17.89.69:5000/download/llvm-project-main.zip"
