@@ -1,5 +1,19 @@
 #!/usr/bin/env bash
 
+download_files() {
+    base_url="https://github.com/jacobktm/work-scripts/raw/main/"
+    for file in "$@"; do
+        if [ -e "$file" ]; then
+            rm "$file"
+        fi
+        wget "${base_url}${file}"
+        if [ ! "$file" == "bash_aliases" ]; then
+            echo "chmod +x $file"
+            chmod +x "$file"
+        fi
+    done
+}
+
 # Path to the submodule directory
 STRESSMON_PATH="stressmon"
 
@@ -17,6 +31,33 @@ else
     git submodule update --init --recursive --checkout
 fi
 
+download_files bash_aliases install.sh prepare.sh terminal.sh system76-ppa.sh mainline.sh suspend.sh resume-hook.sh
+sed -i "s|\./install\.sh|/home/oem/Documents/stress-scripts/install.sh|g" bash_aliases
+sed -i "s|\./terminal\.sh|/home/oem/Documents/stress-scripts/terminal.sh|g" bash_aliases
+sed -i "s|\./install\.sh|/home/oem/Documents/stress-scripts/install.sh|g" suspend.sh
+sed -i "s|\./install\.sh|/home/oem/Documents/stress-scripts/install.sh|g" terminal.sh
+sed -i "s|\./install\.sh|/home/oem/Documents/stress-scripts/install.sh|g" mainline.sh
+sed -i "s|\./count|/home/oem/Documents/stress-scripts/count|g" suspend.sh
+sed -i "s|\./resume-hook\.sh|/home/oem/Documents/stress-scripts/resume-hook.sh|g" suspend.sh
+
 rsync -avz --delete --filter='merge rsync-filter.txt' -e ssh ./ system76@10.17.89.69:./user/Documents/stress-scripts/
-ssh system76@10.17.89.69 "cd user; tar -c -I 'xz -9 -T8' -f stress-scripts.tar.xz Documents .local .ssh"
+
+ssh system76@10.17.89.69 << 'EOF'
+cd user
+if [ -e stress-scripts.tar.xz ]; then
+    rm -rvf stress-scripts.tar.xz
+fi
+mv Documents/stress-scripts/bash_aliases ./.bash_aliases
+mkdir -p .local/bin
+mv Documents/stress-scripts/suspend.sh .local/bin/sustest
+mv Documents/stress-scripts/mainline.sh .local/bin/setup-mainline
+mv Documents/stress-scripts/system76-ppa.sh .local/bin/system76-ppa
+if [ -d Documents/stress-scripts/.git ]; then
+    rm -rvf Documents/stress-scripts/.git*
+fi
+tar -c -I 'xz -9 -T8' -f stress-scripts.tar.xz .bash_aliases Documents .local .ssh
+EOF
+
 ssh -t system76@10.17.89.69 "sudo rm -rvf /opt/fileserv/files/stress-scripts.tar.xz.old; sudo mv /opt/fileserv/files/stress-scripts.tar.xz /opt/fileserv/files/stress-scripts.tar.xz.old; sudo mv user/stress-scripts.tar.xz /opt/fileserv/files"
+
+rm -rvf bash_aliases install.sh prepare.sh terminal.sh system76-ppa.sh mainline.sh suspend.sh resume-hook.sh

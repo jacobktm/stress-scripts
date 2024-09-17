@@ -5,3 +5,11 @@ log_*.txt
 *.swp
 test_gui
 _internal
+bash_aliases
+prepare.sh
+suspend.sh
+install.sh
+terminal.sh
+mainline.sh
+system76-ppa.sh
+resume-hook.sh

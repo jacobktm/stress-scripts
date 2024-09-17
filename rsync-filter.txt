@@ -8,7 +8,9 @@
 + share/**
 + stressmon/**
 
-# Explicitly exclude .git and .git* files in the stressmon directory
+# Explicitly exclude .git and .git* files
+- .git*
+- .git/**
 - stressmon/.git*
 - stressmon/.git/**
 
@@ -39,6 +41,14 @@
 + test_gui.tar.xz
 + valley_1.0.cfg
 + venids
++ bash_aliases
++ prepare.sh
++ install.sh
++ terminal.sh
++ mainline.sh
++ suspend.sh
++ system76-ppa.sh
++ resume-hook.sh
 
 # Exclude everything else
 - *
