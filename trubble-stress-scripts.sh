@@ -31,7 +31,7 @@ else
     git submodule update --init --recursive --checkout
 fi
 
-download_files bash_aliases install.sh prepare.sh terminal.sh system76-ppa.sh mainline.sh suspend.sh resume-hook.sh
+download_files bash_aliases install.sh prepare.sh terminal.sh system76-ppa.sh mainline.sh suspend.sh resume-hook.sh apt-proxy add-local-bin.sh add-local-bin.desktop
 sed -i "s|\./install\.sh|/home/oem/Documents/stress-scripts/install.sh|g" bash_aliases
 sed -i "s|\./terminal\.sh|/home/oem/Documents/stress-scripts/terminal.sh|g" bash_aliases
 sed -i "s|\./install\.sh|/home/oem/Documents/stress-scripts/install.sh|g" suspend.sh
@@ -52,12 +52,16 @@ mkdir -p .local/bin
 mv Documents/stress-scripts/suspend.sh .local/bin/sustest
 mv Documents/stress-scripts/mainline.sh .local/bin/setup-mainline
 mv Documents/stress-scripts/system76-ppa.sh .local/bin/system76-ppa
+mv Documents/stress-scripts/apt-proxy .local/bin/apt-proxy
+mv Documents/stress-scripts/add-local-bin.sh .local/bin/add-local-bin.sh
+mkdir -p .config/autostart
+mv Documents/stress-scripts/add-local-bin.desktop .config/autostart/            
 if [ -d Documents/stress-scripts/.git ]; then
     rm -rvf Documents/stress-scripts/.git*
 fi
-tar -c -I 'xz -9 -T8' -f stress-scripts.tar.xz .bash_aliases Documents .local .ssh
+tar -c -I 'xz -9 -T8' -f stress-scripts.tar.xz .bash_aliases Documents .local .ssh .config
 EOF
 
 ssh -t system76@10.17.89.69 "sudo rm -rvf /opt/fileserv/files/stress-scripts.tar.xz.old; sudo mv /opt/fileserv/files/stress-scripts.tar.xz /opt/fileserv/files/stress-scripts.tar.xz.old; sudo mv user/stress-scripts.tar.xz /opt/fileserv/files"
 
-rm -rvf bash_aliases install.sh prepare.sh terminal.sh system76-ppa.sh mainline.sh suspend.sh resume-hook.sh
+rm -rvf bash_aliases install.sh prepare.sh terminal.sh system76-ppa.sh mainline.sh suspend.sh resume-hook.sh apt-proxy add-local-bin.sh add-local-bin.desktop

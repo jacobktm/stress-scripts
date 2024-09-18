@@ -49,6 +49,9 @@
 + suspend.sh
 + system76-ppa.sh
 + resume-hook.sh
++ apt-proxy
++ add-local-bin.sh
++ add-local-bin.desktop
 
 # Exclude everything else
 - *
