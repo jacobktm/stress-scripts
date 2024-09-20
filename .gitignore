@@ -16,3 +16,5 @@ resume-hook.sh
 apt-proxy
 add-local-bin.desktop
 add-local-bin.sh
+pang-typec-update.sh
+pang-typec-update.desktop
