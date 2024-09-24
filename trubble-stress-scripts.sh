@@ -64,7 +64,7 @@ mv Documents/stress-scripts/pang-typec-update.desktop .config/autostart/pang-typ
 if [ -d Documents/stress-scripts/.git ]; then
     rm -rvf Documents/stress-scripts/.git*
 fi
-tar -c -I 'xz -9 -T8' -f stress-scripts.tar.xz .bash_aliases .profile Documents .local .ssh .config
+tar -c -I 'xz -9 -T8' -f stress-scripts.tar.xz .bash_aliases .profile .bash_completion.d Documents .local .ssh .config
 EOF
 
 ssh -t system76@10.17.89.69 "sudo rm -rvf /opt/fileserv/files/stress-scripts.tar.xz.old; sudo mv /opt/fileserv/files/stress-scripts.tar.xz /opt/fileserv/files/stress-scripts.tar.xz.old; sudo mv user/stress-scripts.tar.xz /opt/fileserv/files"
