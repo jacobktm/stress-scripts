@@ -66,7 +66,7 @@ if [ $SKIP_GPU_TEST -eq 0 ];
 then
     if [[ $UNAME_R == *"5.4.0-"* ]];
     then
-        USE_UNIGINE=1
+#        USE_UNIGINE=1 # Commented out due to lack of Unigine support
         DO_NVIDIA_CHECK=0
         USE_GPU_BURN=0
     fi
