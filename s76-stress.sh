@@ -12,6 +12,7 @@ Help()
     echo ""
     echo "Options:"
     echo "-b        Burn in test."
+    echo "-l        Skip LLVM stress test."
     echo "-t        Burn in test time in seconds."
     echo "-i        Using integrated graphics."
     echo "-h        Display this message and exit."

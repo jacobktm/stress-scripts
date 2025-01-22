@@ -6,16 +6,13 @@ SKIP_GPU_TEST=0
 DO_NVIDIA_CHECK=1
 USE_UNIGINE=0
 USE_GPU_BURN=0
-USE_STRESS_NG=0
 MINUTES=1440
-UNAME_R=`uname -r`
 INTEGRATED_GRAPHICS=0
 USE_INTEGRATED_GRAPHICS=""
 VGA_STR=`lspci | grep VGA`
-CONFIG_FILE="default.conf"
+SKIP_LLVM=""
 
 if [ $(echo $PATH | grep -c $SCRIPT_PATH) -eq 0 ]; then
-    echo PATH=$SCRIPT_PATH/bin:$PATH >> $HOME/.bashrc
     PATH=$SCRIPT_PATH/bin:$PATH
 fi
 
@@ -25,26 +22,23 @@ Help()
     echo ""
     echo "options:"
     echo "-h        Display this message and exit."
-    echo "-c F      Use stress-ng conf file F."
     echo "-i        Use integrated graphics."
-    echo "-n        Use stress-ng instead of stress."
+    echo "-l        Skip LLVM stress test."
     echo "-s        Skip the GPU stress tests."
     echo "-t MM     Time to run gpu_burn in minutes."
     echo "-u        Skip the NVIDIA check and just"
     echo "          run Unigine"
 }
 
-while getopts ":c:hinst:uv" option; do
+while getopts ":hilst:u" option; do
    case $option in
-        c) # Use specified stress-ng conf file
-            CONFIG_FILE=$OPTARG;;
         h) # help text
             Help
             exit;;
         i) # using integrated graphics
             INTEGRATED_GRAPHICS=1;;
-        n) # Use stress-ng instead of stress
-	        USE_STRESS_NG=1;;
+        l) # skip LLVM
+            SKIP_LLVM=" -l";;
         s) # skip GPU stress tests
             SKIP_GPU_TEST=1;;
         t) # time for gpu-burn in minutes
@@ -64,12 +58,6 @@ sudo bash -c "export PATH=${PATH}:${SCRIPT_PATH}/bin; LD_LIBRARY_PATH=${SCRIPT_P
 
 if [ $SKIP_GPU_TEST -eq 0 ];
 then
-    if [[ $UNAME_R == *"5.4.0-"* ]];
-    then
-        USE_UNIGINE=1
-        DO_NVIDIA_CHECK=0
-        USE_GPU_BURN=0
-    fi
     if [ $DO_NVIDIA_CHECK -eq 1 ];
     then
         if [ $(lspci | grep -c NVIDIA) -gt 0 ];
@@ -102,4 +90,4 @@ then
     USE_INTEGRATED_GRAPHICS=" -i"
 fi
 bash s76-testguipy.sh &
-bash s76-stress.sh${USE_INTEGRATED_GRAPHICS}
+bash s76-stress.sh${USE_INTEGRATED_GRAPHICS}${SKIP_LLVM}
