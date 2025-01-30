@@ -13,6 +13,7 @@ INTEGRATED_GRAPHICS=0
 USE_INTEGRATED_GRAPHICS=""
 VGA_STR=`lspci | grep VGA`
 CONFIG_FILE="default.conf"
+USE_RVS=0
 
 if [ $(echo $PATH | grep -c $SCRIPT_PATH) -eq 0 ]; then
     echo PATH=$SCRIPT_PATH/bin:$PATH >> $HOME/.bashrc
@@ -86,6 +87,15 @@ then
         fi
         bash s76-gpu-burn.sh $MINUTES &
     fi
+
+    if [[ $VGA_STR == *"Radeon"* ]]; then
+        USE_RVS=1
+    fi 
+    if [ $USE_RVS -eq 1 ]; then
+    # add minutes?
+        bash s76-rvs-setup.sh
+    fi
+
     if [[ ! $VGA_STR == *"NVIDIA"* ]] && [[ ! $VGA_STR == *"Radeon"* ]];
     then
         INTEGRATED_GRAPHICS=1
