@@ -272,6 +272,8 @@ class RealTimeOutputGUI:
         self.fan_labels = []
         self.fan_trees = []
 
+        write_csv(self.output_data)
+
         # Perform initial update to populate data
         self.update_pool.do_updates()
 
